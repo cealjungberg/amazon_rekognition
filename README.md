@@ -1,1 +1,1 @@
-AWWS Rekognition bildanalys med Pythonskript.
+AWS Rekognition bildanalys med Pythonskript.
